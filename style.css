@@ -839,7 +839,7 @@ section .title::before{
 
 /* Responsive css */
 
-@media only screen and (max-width: 890px) {
+@media only screen and (max-width: 947px) {
   .box-wrapper{
       width: 100%;
   }
